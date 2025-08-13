@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atomix</h1>
 <h3 align="center">A 15 year old  developer from america</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://discord.gg/G8jRFwY6Nk</h3>
 <p align="left">
 </p>
 
